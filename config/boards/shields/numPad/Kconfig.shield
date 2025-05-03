@@ -1,0 +1,2 @@
+config SHIELD_numPad
+    def_boot $(shields_list_contains, zPad)
