@@ -1,2 +1,13 @@
 config SHIELD_numPad
-    def_boot $(shields_list_contains, zPad)
+    bool "Enable numPad Shield"
+    default y
+
+config SHIELD_zPad
+    bool "Enable zPad Shield"
+    default n
+
+if SHIELD_zPad
+    config BOOT_NUMPAD
+        bool "Enable numPad Boot"
+        default y
+endif
