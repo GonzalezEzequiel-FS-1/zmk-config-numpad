@@ -1,6 +1,6 @@
 if SHIELD_ROMAC
 
-consig ZMK_KEYBOARD_NAME
+config ZMK_KEYBOARD_NAME
     default "romac"
 
 endif
