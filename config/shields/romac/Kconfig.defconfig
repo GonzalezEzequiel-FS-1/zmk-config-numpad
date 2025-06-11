@@ -1,6 +1,2 @@
-if SHIELD_ROMAC
-
-config ZMK_KEYBOARD_NAME
-    default "romac"
-
-endif
+CONFIG_ZMK_KEYBOARD_NAME="romac"
+CONFIG_ZMK_USB=y
