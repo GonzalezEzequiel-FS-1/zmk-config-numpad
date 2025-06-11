@@ -1,6 +1,0 @@
-if SHIELD_ZPAD
-
-consig ZMK_KEYBOARD_NAME
-    default "zPad"
-
-endif
