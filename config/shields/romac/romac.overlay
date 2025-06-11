@@ -25,8 +25,8 @@
 
     default_transform: matrix_transform {
       compatible = "zmk, matrix_transform";
-      rows = <4>;
-      columns = <5>;
+      rows = <5>;
+      columns = <4>;
 
       map = <
               RC(0,0) RC(0,1) RC(0,2) RC(0,3)       // NUMLOCK, SLASH, ASTERISK, MINUS
