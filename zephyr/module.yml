@@ -1,4 +1,5 @@
+name: Numpad
+version: 0.1.0
 build:
   settings:
-    name: Numpad
     board_root: .
