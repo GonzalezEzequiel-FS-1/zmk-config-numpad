@@ -58,8 +58,7 @@
         transform = <&default_transform>;
     };
 
-};
-/ {
+
     chosen {
         zmk,kscan = &kscan0;
         zmk,physical-layout = &physical_layout0;
