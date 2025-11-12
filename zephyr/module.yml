@@ -4,7 +4,7 @@ build:
   # List your dependencies
   cmake: .
   # Kconfig filepath
-  kconfig: Kconfig
+  kconfig: 'boards/shields/numpad/Kconfig.defconfig'
   settings:
     # Folder containing a "boards" folder (. = root)
     board_root: .
