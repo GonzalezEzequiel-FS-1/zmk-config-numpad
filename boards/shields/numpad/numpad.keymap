@@ -4,7 +4,7 @@
 /{
   keymap{
     compatible = "zmk, keymap";
-    defaulr_layer {
+    default_layer {
       display-name = "Numpad-Base";
 
       bindings =<
