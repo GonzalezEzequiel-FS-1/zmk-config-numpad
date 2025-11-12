@@ -1,0 +1,6 @@
+if SHIELD_NUMPAD
+
+config Numpad
+  default "Numpad"
+
+endif

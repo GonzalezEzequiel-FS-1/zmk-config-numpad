@@ -1,0 +1,8 @@
+file_format: "1"
+id: numpad
+name: Numpad
+type: shield
+url: github.com/GonzalezEzequiel-FS-1/zmk-config-numpad/tree/main
+requires: [pro_micro]
+features:
+  - keys
