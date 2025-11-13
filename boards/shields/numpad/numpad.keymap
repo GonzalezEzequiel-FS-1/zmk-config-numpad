@@ -8,7 +8,7 @@
         default_layer {
             display-name = "Base";
             bindings = <
-            &kp DELETE      &kp TAB         &kp BACKSPACE   &kp BACKSPACE
+            &kp TAB         &kp ESCAPE      &kp DELETE      &kp BACKSPACE
             &kp KP_NUMLOCK  &kp KP_DIVIDE   &kp KP_MULTIPLY &kp KP_MINUS
             &kp KP_NUMBER_7 &kp KP_NUMBER_8 &kp KP_NUMBER_9 &kp KP_PLUS
             &kp KP_NUMBER_4 &kp KP_NUMBER_5 &kp KP_NUMBER_6 &trans
