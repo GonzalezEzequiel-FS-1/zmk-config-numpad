@@ -7,9 +7,13 @@
 
         default_layer {
             display-name = "Base";
-
             bindings = <
-
+            &kp KP_NUMBER_1 &kp KP_NUMBER_1 &kp KP_NUMBER_1 &kp KP_NUMBER_1
+            &kp KP_NUMBER_1 &kp KP_NUMBER_1 &kp KP_NUMBER_1 &kp KP_NUMBER_1
+            &kp KP_NUMBER_1 &kp KP_NUMBER_1 &kp KP_NUMBER_1 &kp KP_NUMBER_1
+            &kp KP_NUMBER_1 &kp KP_NUMBER_1 &kp KP_NUMBER_1 &trans
+            &kp KP_NUMBER_1 &kp KP_NUMBER_1 &kp KP_NUMBER_1 &trans
+            &kp KP_NUMBER_1 &trans          &kp KP_NUMBER_1 &kp KP_NUMBER_1 
             >;
         };
     };
