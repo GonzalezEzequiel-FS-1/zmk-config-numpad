@@ -9,7 +9,7 @@
             display-name = "Base";
 
             bindings = <
-                &kp KC_F1 &kp KC_F2 &kp KC_F3 &kp KC_F4
+                &kp KP_1 &kp KP_2 &kp KP_3 &trans
                 &kp KP_NUMLOCK &kp KP_DIVIDE &kp KP_MULTIPLY &kp KP_MINUS
                 &kp KP_7 &kp KP_8 &kp KP_9 &kp KP_PLUS
                 &kp KP_4 &kp KP_5 &kp KP_6 &trans
